@@ -88,8 +88,6 @@ A cross-platform mobile app that **automatically generates quizzes and flashcard
 
 Built by a 2-person team.
 
-| Role | 
-|---|---|
 | Gülfem Küpeli |
 | Hasan Hazırbulan | 
 
