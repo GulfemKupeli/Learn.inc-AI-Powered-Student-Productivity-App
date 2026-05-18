@@ -88,8 +88,10 @@ A cross-platform mobile app that **automatically generates quizzes and flashcard
 
 Built by a 2-person team.
 
-| Gülfem Küpeli |
-| Hasan Hazırbulan | 
+| Member | Profile |
+| :--- | :--- |
+| **Gülfem Küpeli** | [@GulfemKupeli](https://github.com/GulfemKupeli) |
+| **Hasan Hazırbulan** | [@hasanhazirbulan](https://github.com/hasanhazirbulan) |
 
 ---
 
